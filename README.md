@@ -1,2 +1,2 @@
 # Facebook-Image-scraper
-This will help you scrape images from facebook page..Happy Scraping  
+This will help you to scrape or extract images from facebook page...
